@@ -4,6 +4,8 @@ A quick-start example to help you to add an image as background in the Flutter C
 
 You can use the image as the calendar's background in the Flutter Event Calendar. To display the background image, set the calendar backgroundColor to transparent.
 
+![Background](https://user-images.githubusercontent.com/46158936/205010806-a12f63aa-e7e8-4b38-b244-77f60d2a6a32.gif)
+
 ## Requirements to run the demo
 * [VS Code](https://code.visualstudio.com/download)
 * [Flutter SDK v1.22+](https://flutter.dev/docs/development/tools/sdk/overview)
